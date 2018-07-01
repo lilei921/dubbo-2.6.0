@@ -7,7 +7,7 @@
 
     <dubbo:application name="rest-consumer" owner="programmer" organization="dubbo"/>
 
-    <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
+    <dubbo:registry address="zookeeper://47.97.209.171:2181"/>
 
     <dubbo:reference id="anotherUserRestService"
                      interface="com.alibaba.dubbo.examples.rest.api.facade.AnotherUserRestService"/>

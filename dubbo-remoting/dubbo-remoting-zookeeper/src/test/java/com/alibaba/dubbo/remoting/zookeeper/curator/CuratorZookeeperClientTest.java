@@ -30,7 +30,7 @@ public class CuratorZookeeperClientTest {
 
     @Test
     public void testCheckExists() {
-        CuratorZookeeperClient curatorClient = new CuratorZookeeperClient(URL.valueOf("zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService"));
+        CuratorZookeeperClient curatorClient = new CuratorZookeeperClient(URL.valueOf("zookeeper://47.97.209.171:2181/com.alibaba.dubbo.registry.RegistryService"));
         String path = "/dubbo/com.alibaba.dubbo.demo.DemoService/providers";
         curatorClient.create(path, false);
         Assert.assertTrue(curatorClient.checkExists(path));
@@ -42,7 +42,7 @@ public class CuratorZookeeperClientTest {
      */
     @Test
     public void testCreate() {
-        CuratorZookeeperClient curatorClient = new CuratorZookeeperClient(URL.valueOf("zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService"));
+        CuratorZookeeperClient curatorClient = new CuratorZookeeperClient(URL.valueOf("zookeeper://47.97.209.171:2181/com.alibaba.dubbo.registry.RegistryService"));
         String path = "/dubbo/com.alibaba.dubbo.demo.DemoService/providers";
         curatorClient.create(path, false);
 

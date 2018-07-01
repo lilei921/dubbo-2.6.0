@@ -140,8 +140,8 @@ limitations under the License.
         <profile.name>oss</profile.name>
 
         <!-- for maven compiler plugin -->
-        <java_source_version>1.6</java_source_version>
-        <java_target_version>1.6</java_target_version>
+        <java_source_version>1.8</java_source_version>
+        <java_target_version>1.8</java_target_version>
         <file_encoding>UTF-8</file_encoding>
 
     </properties>
@@ -467,7 +467,7 @@ limitations under the License.
                     <argLine>${argline}</argLine>
                     <systemProperties>
                         <!-- common shared -->
-                        <property>
+                        <!--<property>
                             <name>transporter</name>
                             <value>${transporter}</value>
                         </property>
@@ -475,7 +475,7 @@ limitations under the License.
                             <name>serialization</name>
                             <value>${serialization}</value>
                         </property>
-                        <!-- server side -->
+                        &lt;!&ndash; server side &ndash;&gt;
                         <property>
                             <name>port</name>
                             <value>${port}</value>
@@ -492,7 +492,7 @@ limitations under the License.
                             <name>iothreads</name>
                             <value>${iothreads}</value>
                         </property>
-                        <!-- client side -->
+                        &lt;!&ndash; client side &ndash;&gt;
                         <property>
                             <name>server</name>
                             <value>${server}</value>
@@ -524,7 +524,7 @@ limitations under the License.
                         <property>
                             <name>onerror</name>
                             <value>${onerror}</value>
-                        </property>
+                        </property>-->
                     </systemProperties>
                 </configuration>
             </plugin>

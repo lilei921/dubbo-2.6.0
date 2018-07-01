@@ -30,7 +30,7 @@ We are now collecting dubbo user info in order to help us to improve dubbo bette
     * [Dubbo docs](https://github.com/apache/incubator-dubbo-docs) - Apache Dubbo (incubating) documentation  
 * [Developer Mailing list](https://github.com/apache/incubator-dubbo/issues/1393) - Any questions or suggestions? Please follow this [guide](https://github.com/apache/incubator-dubbo/issues/1393) to subscribe to (dev@dubbo.incubator.apache.org) and discuss with us.
 * [Gitter channel](https://gitter.im/alibaba/dubbo) - Online chat room with Dubbo developers.
-* [Dubbo user manual(English)](http://dubbo.apache.org/books/dubbo-user-book-en/) or [DubboÓÃ»§ÊÖ²á(ÖĞÎÄ)](http://dubbo.apache.org/books/dubbo-user-book/) - Describe how to use Dubbo and all features of Dubbo concretely.
-* [Dubbo developer guide(English)](http://dubbo.apache.org/books/dubbo-dev-book-en/) or [Dubbo¿ª·¢ÊÖ²á(ÖĞÎÄ)](http://dubbo.apache.org/books/dubbo-dev-book/) - Detailly introduce the design principal, extension mechanisms, code conventions, version control and building project, etc.
-* [Dubbo admin manual(English)](http://dubbo.apache.org/books/dubbo-admin-book-en/) or [Dubbo¹ÜÀíÊÖ²á(ÖĞÎÄ)](http://dubbo.apache.org/books/dubbo-admin-book/) - Describe how to use Dubbo registry and admin-console.
+* [Dubbo user manual(English)](http://dubbo.apache.org/books/dubbo-user-book-en/) or [ Dubboç”¨æˆ·æ‰‹å†Œ(ä¸­æ–‡)](http://dubbo.apache.org/books/dubbo-user-book/) - Describe how to use Dubbo and all features of Dubbo concretely.
+* [Dubbo developer guide(English)](http://dubbo.apache.org/books/dubbo-dev-book-en/) or [Dubboå¼€å‘æ‰‹å†Œ(ä¸­æ–‡)](http://dubbo.apache.org/books/dubbo-dev-book/) - Detailly introduce the design principal, extension mechanisms, code conventions, version control and building project, etc.
+* [Dubbo admin manual(English)](http://dubbo.apache.org/books/dubbo-admin-book-en/) or [Dubboç®¡ç†æ‰‹å†Œ(ä¸­æ–‡)](http://dubbo.apache.org/books/dubbo-admin-book/) - Describe how to use Dubbo registry and admin-console.
 
